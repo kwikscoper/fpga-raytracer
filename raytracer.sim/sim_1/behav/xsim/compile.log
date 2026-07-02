@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/user/projects/raytracer/src/vga_controller.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vga_controller
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/user/projects/raytracer/src/tb_vga_controller.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_vga_controller

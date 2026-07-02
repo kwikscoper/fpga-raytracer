@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Jul  2 01:16:16 2026
+# Process ID: 621
+# Current directory: /home/user/projects/raytracer/raytracer.runs/synth_1
+# Command line: vivado -log vga_test_pattern.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source vga_test_pattern.tcl
+# Log file: /home/user/projects/raytracer/raytracer.runs/synth_1/vga_test_pattern.vds
+# Journal file: /home/user/projects/raytracer/raytracer.runs/synth_1/vivado.jou
+# Running On        :db1a46774482
+# Platform          :Ubuntu
+# Operating System  :Ubuntu 22.04.5 LTS
+# Processor Detail  :VirtualApple @ 2.50GHz
+# CPU Frequency     :2502.057 MHz
+# CPU Physical cores:8
+# CPU Logical cores :8
+# Host memory       :16748 MB
+# Swap memory       :4294 MB
+# Total Virtual     :21043 MB
+# Available Virtual :17982 MB
+#-----------------------------------------------------------
+source vga_test_pattern.tcl -notrace
